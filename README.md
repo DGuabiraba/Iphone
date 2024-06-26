@@ -45,7 +45,4 @@ classDiagram
 ```
 
 
-    Iphone --> ReprodutorMusical
-    Iphone --> AparelhoTelefonico
-    Iphone --> NavegadorInternet
-'''
+    
